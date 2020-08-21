@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj": {}
+    "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\ASP.NET-MVC\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj": {
+    "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\ASP.NET-MVC\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj",
+        "projectUniqueName": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\ASP.NET-MVC\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj",
         "projectName": "VetChatProject1_FlorabelIturalde",
-        "projectPath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj",
+        "projectPath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\ASP.NET-MVC\\Projects\\VetChatProject1_FlorabelIturalde\\VetChatProject1_FlorabelIturalde.csproj",
         "packagesPath": "C:\\Users\\flora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\Projects\\VetChatProject1_FlorabelIturalde\\obj\\",
+        "outputPath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\ASP.NET-MVC\\Projects\\VetChatProject1_FlorabelIturalde\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
