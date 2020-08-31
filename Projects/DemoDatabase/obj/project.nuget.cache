@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a2yzrUM0TJcLoo190tRULhCzMW7QwMJvZGWMlYCDYbJrJncv+cmGZfQeJ/bXIvqNVfpnza9Ky9L7pjo2kpRYfA==",
+  "dgSpecHash": "tyqarg+QCFb4sMcJo9+yHuQHmNlFEpJUptGU1Ca4zZKKu8IOQER5rAnGXdhH9FYAgq4MC1cBrCrixOh/CQmIgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\DemoDatabase\\DemoDatabase.csproj",
+  "projectFilePath": "C:\\Users\\flora\\Documents\\ASP.NET-MVC\\Projects\\DemoDatabase\\DemoDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flora\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\flora\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.7\\microsoft.aspnetcore.mvc.razor.extensions.3.1.7.nupkg.sha512",

@@ -8891,11 +8891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\DemoDatabase\\DemoDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\flora\\Documents\\ASP.NET-MVC\\Projects\\DemoDatabase\\DemoDatabase.csproj",
       "projectName": "DemoDatabase",
-      "projectPath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\DemoDatabase\\DemoDatabase.csproj",
+      "projectPath": "C:\\Users\\flora\\Documents\\ASP.NET-MVC\\Projects\\DemoDatabase\\DemoDatabase.csproj",
       "packagesPath": "C:\\Users\\flora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\DemoDatabase\\obj\\",
+      "outputPath": "C:\\Users\\flora\\Documents\\ASP.NET-MVC\\Projects\\DemoDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
