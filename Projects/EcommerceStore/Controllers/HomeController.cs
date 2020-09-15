@@ -23,7 +23,17 @@ namespace EcommerceStore.Controllers
             return View();
         }
 
+        public IActionResult Cart()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult Tablet()
         {
             return View();
         }

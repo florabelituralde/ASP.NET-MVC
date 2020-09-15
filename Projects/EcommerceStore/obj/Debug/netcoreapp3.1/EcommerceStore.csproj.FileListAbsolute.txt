@@ -12,8 +12,6 @@ C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\bin\Debug\netcoreapp3
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csprojAssemblyReference.cache
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.AssemblyInfoInputs.cache
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.AssemblyInfo.cs
-C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csproj.CoreCompileInputs.cache
-C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorAssemblyInfo.cache
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorAssemblyInfo.cs
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.TagHelpers.input.cache
@@ -35,3 +33,8 @@ C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.pdb
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.genruntimeconfig.cache
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csproj.CopyComplete
+C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tablet.cshtml.g.cs
