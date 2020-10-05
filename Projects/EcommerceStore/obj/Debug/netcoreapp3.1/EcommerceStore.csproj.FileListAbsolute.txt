@@ -38,3 +38,43 @@ C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
 C:\Users\flora\OneDrive\Week 1 MSSA\ASP.NET\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tablet.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.exe
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.deps.json
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.runtimeconfig.json
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.runtimeconfig.dev.json
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.dll
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.pdb
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.Views.dll
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\EcommerceStore.Views.pdb
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.AssemblyInfoInputs.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.AssemblyInfo.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorAssemblyInfo.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorAssemblyInfo.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.TagHelpers.input.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.TagHelpers.output.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorCoreGenerate.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tablet.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorTargetAssemblyInfo.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.RazorTargetAssemblyInfo.cs
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.Views.pdb
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.csproj.CopyComplete
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceStore.StaticWebAssets.Manifest.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceStore.StaticWebAssets.xml
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.dll
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.pdb
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\EcommerceStore\obj\Debug\netcoreapp3.1\EcommerceStore.genruntimeconfig.cache

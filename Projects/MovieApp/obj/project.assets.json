@@ -6027,8 +6027,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\flora\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\flora\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6039,13 +6038,9 @@
       "packagesPath": "C:\\Users\\flora\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\flora\\OneDrive\\Documents\\GitHub\\ASP.NET-MVC\\Projects\\MovieApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\flora\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

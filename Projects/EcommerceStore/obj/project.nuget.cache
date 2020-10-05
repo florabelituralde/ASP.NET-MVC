@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NhrY0mIWIvKCOz0iuS5ZaPz73uYypA6xoTxTBys4I1wd9Y0jpWArrGz7Qm/Mj9UZFlY/4JutreY7U89xjXjxUA==",
+  "dgSpecHash": "c7myduc3GmEHf7YVCdPPWjbqj/LODgDbaIPXvwLMS45nc5OU9MSYUt4C1z7lrilgt+fGVYa01v79/MAN4HEVcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\flora\\OneDrive\\Week 1 MSSA\\ASP.NET\\EcommerceStore\\EcommerceStore.csproj",
+  "projectFilePath": "C:\\Users\\flora\\OneDrive\\Documents\\GitHub\\ASP.NET-MVC\\Projects\\EcommerceStore\\EcommerceStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flora\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

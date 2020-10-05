@@ -61,3 +61,5 @@ C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\MovieApp\bin\Debug
 C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\MovieApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.csprojAssemblyReference.cache
 C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.csproj.CopyComplete
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Documents\GitHub\ASP.NET-MVC\Projects\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.MvcApplicationPartsAssemblyInfo.cache
